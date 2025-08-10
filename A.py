@@ -1,6 +1,5 @@
-def add(x, y):
-  result = x + y
-  a = 10
+def add(a, b):
+  result = a + b
   return result
 
 x = 3
