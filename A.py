@@ -1,6 +1,8 @@
 def add(x, y):
   result = x + y
-  result += 1
+  results = result
   return result
 
-print(x+y)
+x = 3
+y = 5
+print(add(x,y))
