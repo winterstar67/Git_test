@@ -1,6 +1,5 @@
 def add(x, y):
   result = x + y
-  results = result
   return result
 
 x = 3
